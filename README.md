@@ -1,2 +1,2 @@
 # python-project
-Different python notebook files of projects carried out
+Personal projects carried out to improve my skillsets.
